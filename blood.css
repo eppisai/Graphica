@@ -68,6 +68,9 @@ button2:hover{
     font-size: 35;
     font-display: center;
     color:black;
+    position:relative;
+    width:50em;
+    padding:3em;
 }
 
 .left-section{
@@ -95,7 +98,8 @@ button2:hover{
     padding: 3em 0em 0em 0em;
     height: 100%;
     position: fixed;
-    margin-left: 79em;
+    float:right;
+    margin-left: 80%;
     margin-top: 5.5em;
     opacity:1;
     background-color: rgb(231, 124, 226);
